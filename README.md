@@ -9,6 +9,11 @@ To ensure everything works properly, place each file in the appropriate location
 
 ---
 
+### ✅ `toggle_battery_limit.sh`
+- **Path:** `$HOME/.local/bin/toggle_battery_limit.sh`
+
+---
+
 ### ✅ `update_theme.sh`
 - **Path:** `$HOME/.local/bin/update_theme.sh`
 
